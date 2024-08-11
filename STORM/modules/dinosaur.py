@@ -5,7 +5,7 @@ from config import SUDO_USERS
 @Client.on_message(
     filters.command(["dinosaur"], ".") & (filters.me | filters.user(SUDO_USERS))
 )
-    async def dinosaur(client: Client, message: Message):
+async def dinosaur(client: Client, message: Message):
     e = await message.edit("`ᴅɪɴ ᴅɪɴɴɴ.......`")
     await e.edit("`ᴅɪɴᴏᴏᴏᴏsᴀᴜʀᴜsssss....!!`")
     await e.edit("`🏃                        🦖`")
