@@ -43,15 +43,15 @@ if __name__ == "__main__":
     for i, CLIENT in enumerate(CLIENTS):
         try:
             CLIENT.start()
-            CLIENT.join_chat("STORM_CHATZ")
-            CLIENT.join_chat("STORM_TECHH")
-            CLIENT.join_chat("TORNADO_TRIBE")
-            print(f"ꜱᴛᴏʀᴍ ꜱᴛᴀʀᴛᴇᴅ ᴀꜱ{i+1}")
+            CLIENT.join_chat("ALL_SANATANI_BOT")
+            CLIENT.join_chat("II_SANATANI_II")
+            CLIENT.join_chat("SACHIN_OWNER")
+            print(f"sᴀɴᴀᴛᴀɴɪ ꜱᴛᴀʀᴛᴇᴅ ᴀꜱ{i+1}")
             print(f"ʙᴏᴏᴛᴇᴅ/ꜱᴛᴀʀᴛᴇᴅ {CLIENT.me.first_name} 🎉")
         except Exception as e:
             print(e)
             print("ᴇxɪᴛɪɴɢ ᴛʜᴇ ᴘʀᴏɢʀᴀᴍ")
             sys.exit(1)
 
-    print("ꜱᴛᴏʀᴍ ᴜꜱᴇʀ ʙᴏᴛ ɪꜱ ᴅᴇᴘʟᴏʏᴇᴅ ꜱᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ 🌩️🥀")
+    print("sᴀɴᴀᴛᴀɴɪ ᴜꜱᴇʀ ʙᴏᴛ ɪꜱ ᴅᴇᴘʟᴏʏᴇᴅ ꜱᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ 🌩️🥀")
     idle()
