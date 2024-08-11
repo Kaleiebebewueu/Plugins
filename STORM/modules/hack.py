@@ -60,95 +60,95 @@ async def hack(client: Client, message: Message):
     await asyncio.sleep(3)
     await e.edit("ᴄᴏɴɴᴇᴄᴛɪɴɢ ɴᴅ ɢᴇᴛᴛɪɴɢ ᴄᴏᴍʙɪɴᴇᴅ ᴛᴏᴋᴇɴ ꜰʀᴏᴍ ᴍʏ.ᴛᴇʟᴇɢʀᴀᴍ.ᴏʀɢ")
     await asyncio.sleep(3)
-    await e.edit("root@storm:~#")
+    await e.edit("root@sachin:~#")
     await asyncio.sleep(2)
-    await e.edit("root@storm:~# ls")
+    await e.edit("root@sachin:~# ls")
     await asyncio.sleep(3)
-    await e.edit("root@storm:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@storm:~#")
+    await e.edit("root@sachin:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@sachin:~#")
     await asyncio.sleep(3)
-    await e.edit("root@storm:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@storm:~# # S")
-    await e.edit("root@storm:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@storm:~# # So")
+    await e.edit("root@sachin:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@sachin:~# # S")
+    await e.edit("root@sachin:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@sachin:~# # So")
     await e.edit(
-        "root@storm:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@storm:~# # ꜱᴏ ʟ"
+        "root@sachin:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@sachin:~# # ꜱᴏ ʟ"
     )
     await e.edit(
-        "root@storm:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@storm:~# # ꜱᴏ ʟᴇ"
+        "root@sachin:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@sachin:~# # ꜱᴏ ʟᴇ"
     )
     await e.edit(
-        "root@storm:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@storm:~# # ꜱᴏ ʟᴇᴛ"
+        "root@sachin:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@sachin:~# # ꜱᴏ ʟᴇᴛ"
     )
     await e.edit(
-        "root@storm:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@storm:~# # ꜱᴏ ʟᴇᴛ'"
+        "root@sachin:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@sachin:~# # ꜱᴏ ʟᴇᴛ'"
     )
     await e.edit(
-        "root@storm:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@storm:~# # ꜱᴏ ʟᴇᴛ'ꜱ "
+        "root@sachin:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@sachin:~# # ꜱᴏ ʟᴇᴛ'ꜱ "
     )
     await e.edit(
-        "root@storm:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@storm:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜ"
+        "root@sachin:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@sachin:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜ"
     )
     await e.edit(
-        "root@storm:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@storm:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀ"
+        "root@sachin:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@sachin:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀ"
     )
     await e.edit(
-        "root@storm:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@storm:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄ"
+        "root@sachin:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@sachin:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄ"
     )
     await e.edit(
-        "root@storm:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@storm:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ "
+        "root@sachin:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@sachin:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ "
     )
     await e.edit(
-        "root@storm:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@storm:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ ɪ"
+        "root@sachin:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@sachin:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ ɪ"
     )
     await e.edit(
-        "root@storm:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@storm:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ ɪᴛ "
+        "root@sachin:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@sachin:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ ɪᴛ "
     )
     await e.edit(
-        "root@storm:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@storm:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ ɪᴛ ."
+        "root@sachin:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@sachin:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ ɪᴛ ."
     )
     await e.edit(
-        "root@storm:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@storm:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ ɪᴛ .."
+        "root@sachin:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@sachin:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ ɪᴛ .."
     )
     await e.edit(
-        "root@storm:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@storm:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ ɪᴛ ..."
+        "root@sachin:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@sachin:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ ɪᴛ ..."
     )
     await asyncio.sleep(3)
     await e.edit(
-        "root@storm:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@storm:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ ɪᴛ ...\nroot@storm:~# "
-    )
-    await asyncio.sleep(2)
-    await e.edit(
-        "root@storm:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@storm:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ ɪᴛ ...\nroot@storm:~# ᴘʏᴛʜᴏɴ ꜱᴇᴛᴜᴘ.ᴘʏ"
+        "root@sachin:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@sachin:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ ɪᴛ ...\nroot@sachin:~# "
     )
     await asyncio.sleep(2)
     await e.edit(
-        "root@storm:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@storm:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ ɪᴛ ...\nroot@storm:~# ᴘʏᴛʜᴏɴ ꜱᴇᴛᴜᴘ.ᴘʏ\n\nꜱᴇᴛᴜᴘ.ᴘʏ ᴅᴇᴘʟᴏʏᴇᴅ ..."
-    )
-    await asyncio.sleep(3)
-    await e.edit(
-        "root@storm:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@storm:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ ɪᴛ ...\nroot@storm:~# ᴘʏᴛʜᴏɴ ꜱᴇᴛᴜᴘ.ᴘʏ\n\nꜱᴇᴛᴜᴘ.ᴘʏ ᴅᴇᴘʟᴏʏᴇᴅ ...\nᴀᴜᴛᴏ ᴄᴍᴅ ᴅᴇᴘʟᴏʏᴇᴅ ..."
+        "root@sachin:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@sachin:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ ɪᴛ ...\nroot@sachin:~# ᴘʏᴛʜᴏɴ ꜱᴇᴛᴜᴘ.ᴘʏ"
     )
     await asyncio.sleep(2)
     await e.edit(
-        "root@storm:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@storm:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ ɪᴛ ...\nroot@storm:~# ᴘʏᴛʜᴏɴ ꜱᴇᴛᴜᴘ.ᴘʏ\n\nꜱᴇᴛᴜᴘ.ᴘʏ ᴅᴇᴘʟᴏʏᴇᴅ ...\nᴀᴜᴛᴏ ᴄᴍᴅ ᴅᴇᴘʟᴏʏᴇᴅ ...\n\nroot@storm:~#ᴛʀᴀᴘ ᴡʜᴏᴀᴍɪ"
+        "root@sachin:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@sachin:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ ɪᴛ ...\nroot@sachin:~# ᴘʏᴛʜᴏɴ ꜱᴇᴛᴜᴘ.ᴘʏ\n\nꜱᴇᴛᴜᴘ.ᴘʏ ᴅᴇᴘʟᴏʏᴇᴅ ..."
     )
     await asyncio.sleep(3)
     await e.edit(
-        "root@storm:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@storm:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ ɪᴛ ...\nroot@storm:~# ᴘʏᴛʜᴏɴ ꜱᴇᴛᴜᴘ.ᴘʏ\n\nꜱᴇᴛᴜᴘ.ᴘʏ ᴅᴇᴘʟᴏʏᴇᴅ ...\nᴀᴜᴛᴏ ᴄᴍᴅ ᴅᴇᴘʟᴏʏᴇᴅ ...\n\nroot@storm:~#ᴛʀᴀᴘ ᴡʜᴏᴀᴍɪ\n\nᴡʜᴏᴀᴍɪ=ᴜꜱᴇʀ"
-    )
-    await asyncio.sleep(3)
-    await e.edit(
-        "root@storm:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@storm:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ ɪᴛ ...\nroot@storm:~# ᴘʏᴛʜᴏɴ ꜱᴇᴛᴜᴘ.ᴘʏ\n\nꜱᴇᴛᴜᴘ.ᴘʏ ᴅᴇᴘʟᴏʏᴇᴅ ...\nᴀᴜᴛᴏ ᴄᴍᴅ ᴅᴇᴘʟᴏʏᴇᴅ ...\n\nroot@storm:~#ᴛʀᴀᴘ ᴡʜᴏᴀᴍɪ\n\nᴡʜᴏᴀᴍɪ=ᴜꜱᴇʀ\nʙᴏᴏꜱᴛ_ᴛʀᴀᴘ ᴏɴ ꜰᴏʀᴄᴇ ..."
-    )
-    await asyncio.sleep(3)
-    await e.edit(
-        "root@storm:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@storm:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ ɪᴛ ...\nroot@storm:~# ᴘʏᴛʜᴏɴ ꜱᴇᴛᴜᴘ.ᴘʏ\n\nꜱᴇᴛᴜᴘ.ᴘʏ ᴅᴇᴘʟᴏʏᴇᴅ ...\nᴀᴜᴛᴏ ᴄᴍᴅ ᴅᴇᴘʟᴏʏᴇᴅ ...\n\nroot@storm:~#ᴛʀᴀᴘ ᴡʜᴏᴀᴍɪ\n\nᴡʜᴏᴀᴍɪ=ᴜꜱᴇʀ\nʙᴏᴏꜱᴛ_ᴛʀᴀᴘ ᴏɴ ꜰᴏʀᴄᴇ ...\nᴠɪᴄᴛɪᴍ ᴅᴇᴛᴇᴄᴛᴇᴅ ɪɴ ɢʜᴏꜱᴛ ..."
+        "root@sachin:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@sachin:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ ɪᴛ ...\nroot@sachin:~# ᴘʏᴛʜᴏɴ ꜱᴇᴛᴜᴘ.ᴘʏ\n\nꜱᴇᴛᴜᴘ.ᴘʏ ᴅᴇᴘʟᴏʏᴇᴅ ...\nᴀᴜᴛᴏ ᴄᴍᴅ ᴅᴇᴘʟᴏʏᴇᴅ ..."
     )
     await asyncio.sleep(2)
     await e.edit(
-        "root@storm:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@storm:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ ɪᴛ ...\nroot@storm:~# ᴘʏᴛʜᴏɴ ꜱᴇᴛᴜᴘ.ᴘʏ\n\nꜱᴇᴛᴜᴘ.ᴘʏ ᴅᴇᴘʟᴏʏᴇᴅ ...\nᴀᴜᴛᴏ ᴄᴍᴅ ᴅᴇᴘʟᴏʏᴇᴅ ...\n\nroot@storm:~#ᴛʀᴀᴘ ᴡʜᴏᴀᴍɪ\n\nᴡʜᴏᴀᴍɪ=ᴜꜱᴇʀ\nʙᴏᴏꜱᴛ_ᴛʀᴀᴘ ᴏɴ ꜰᴏʀᴄᴇ ...\nᴠɪᴄᴛɪᴍ ᴅᴇᴛᴇᴄᴛᴇᴅ ɪɴ ɢʜᴏꜱᴛ ...\n\nᴀʟʟ ᴅᴏɴᴇ !"
+        "root@sachin:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@sachin:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ ɪᴛ ...\nroot@sachin:~# ᴘʏᴛʜᴏɴ ꜱᴇᴛᴜᴘ.ᴘʏ\n\nꜱᴇᴛᴜᴘ.ᴘʏ ᴅᴇᴘʟᴏʏᴇᴅ ...\nᴀᴜᴛᴏ ᴄᴍᴅ ᴅᴇᴘʟᴏʏᴇᴅ ...\n\nroot@sachin:~#ᴛʀᴀᴘ ᴡʜᴏᴀᴍɪ"
+    )
+    await asyncio.sleep(3)
+    await e.edit(
+        "root@sachin:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@sachin:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ ɪᴛ ...\nroot@sachin:~# ᴘʏᴛʜᴏɴ ꜱᴇᴛᴜᴘ.ᴘʏ\n\nꜱᴇᴛᴜᴘ.ᴘʏ ᴅᴇᴘʟᴏʏᴇᴅ ...\nᴀᴜᴛᴏ ᴄᴍᴅ ᴅᴇᴘʟᴏʏᴇᴅ ...\n\nroot@sachin:~#ᴛʀᴀᴘ ᴡʜᴏᴀᴍɪ\n\nᴡʜᴏᴀᴍɪ=ᴜꜱᴇʀ"
+    )
+    await asyncio.sleep(3)
+    await e.edit(
+        "root@sachin:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@sachin:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ ɪᴛ ...\nroot@sachin:~# ᴘʏᴛʜᴏɴ ꜱᴇᴛᴜᴘ.ᴘʏ\n\nꜱᴇᴛᴜᴘ.ᴘʏ ᴅᴇᴘʟᴏʏᴇᴅ ...\nᴀᴜᴛᴏ ᴄᴍᴅ ᴅᴇᴘʟᴏʏᴇᴅ ...\n\nroot@sachin:~#ᴛʀᴀᴘ ᴡʜᴏᴀᴍɪ\n\nᴡʜᴏᴀᴍɪ=ᴜꜱᴇʀ\nʙᴏᴏꜱᴛ_ᴛʀᴀᴘ ᴏɴ ꜰᴏʀᴄᴇ ..."
+    )
+    await asyncio.sleep(3)
+    await e.edit(
+        "root@sachin:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@sachin:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ ɪᴛ ...\nroot@sachin:~# ᴘʏᴛʜᴏɴ ꜱᴇᴛᴜᴘ.ᴘʏ\n\nꜱᴇᴛᴜᴘ.ᴘʏ ᴅᴇᴘʟᴏʏᴇᴅ ...\nᴀᴜᴛᴏ ᴄᴍᴅ ᴅᴇᴘʟᴏʏᴇᴅ ...\n\nroot@sachin:~#ᴛʀᴀᴘ ᴡʜᴏᴀᴍɪ\n\nᴡʜᴏᴀᴍɪ=ᴜꜱᴇʀ\nʙᴏᴏꜱᴛ_ᴛʀᴀᴘ ᴏɴ ꜰᴏʀᴄᴇ ...\nᴠɪᴄᴛɪᴍ ᴅᴇᴛᴇᴄᴛᴇᴅ ɪɴ ɢʜᴏꜱᴛ ..."
     )
     await asyncio.sleep(2)
     await e.edit(
-        "root@storm:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@storm:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ ɪᴛ ...\nroot@storm:~# ᴘʏᴛʜᴏɴ ꜱᴇᴛᴜᴘ.ᴘʏ\n\nꜱᴇᴛᴜᴘ.ᴘʏ ᴅᴇᴘʟᴏʏᴇᴅ ...\nᴀᴜᴛᴏ ᴄᴍᴅ ᴅᴇᴘʟᴏʏᴇᴅ ...\n\nroot@storm:~#ᴛʀᴀᴘ ᴡʜᴏᴀᴍɪ\n\nᴡʜᴏᴀᴍɪ=ᴜꜱᴇʀ\nʙᴏᴏꜱᴛ_ᴛʀᴀᴘ ᴏɴ ꜰᴏʀᴄᴇ ...\nᴠɪᴄᴛɪᴍ ᴅᴇᴛᴇᴄᴛᴇᴅ ɪɴ ɢʜᴏꜱᴛ ...\n\nᴀʟʟ ᴅᴏɴᴇ !\nɪɴꜱᴛᴀʟʟɪɴɢ ᴛᴏᴋᴇɴ!\nᴛᴏᴋᴇɴ=ᴅᴊ65ɢᴜʟᴏ90ᴘ90ɴʟᴋᴍ65ᴅʀꜰᴄ8ɪ"
+        "root@sachin:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@sachin:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ ɪᴛ ...\nroot@sachin:~# ᴘʏᴛʜᴏɴ ꜱᴇᴛᴜᴘ.ᴘʏ\n\nꜱᴇᴛᴜᴘ.ᴘʏ ᴅᴇᴘʟᴏʏᴇᴅ ...\nᴀᴜᴛᴏ ᴄᴍᴅ ᴅᴇᴘʟᴏʏᴇᴅ ...\n\nroot@sachin:~#ᴛʀᴀᴘ ᴡʜᴏᴀᴍɪ\n\nᴡʜᴏᴀᴍɪ=ᴜꜱᴇʀ\nʙᴏᴏꜱᴛ_ᴛʀᴀᴘ ᴏɴ ꜰᴏʀᴄᴇ ...\nᴠɪᴄᴛɪᴍ ᴅᴇᴛᴇᴄᴛᴇᴅ ɪɴ ɢʜᴏꜱᴛ ...\n\nᴀʟʟ ᴅᴏɴᴇ !"
+    )
+    await asyncio.sleep(2)
+    await e.edit(
+        "root@sachin:~# ls\n\n  ᴜꜱʀ ɢʜᴏꜱᴛ ᴄᴏᴅᴇꜱ  \n\nroot@sachin:~# # ꜱᴏ ʟᴇᴛ'ꜱ ʜᴀᴄᴋ ɪᴛ ...\nroot@sachin:~# ᴘʏᴛʜᴏɴ ꜱᴇᴛᴜᴘ.ᴘʏ\n\nꜱᴇᴛᴜᴘ.ᴘʏ ᴅᴇᴘʟᴏʏᴇᴅ ...\nᴀᴜᴛᴏ ᴄᴍᴅ ᴅᴇᴘʟᴏʏᴇᴅ ...\n\nroot@sachin:~#ᴛʀᴀᴘ ᴡʜᴏᴀᴍɪ\n\nᴡʜᴏᴀᴍɪ=ᴜꜱᴇʀ\nʙᴏᴏꜱᴛ_ᴛʀᴀᴘ ᴏɴ ꜰᴏʀᴄᴇ ...\nᴠɪᴄᴛɪᴍ ᴅᴇᴛᴇᴄᴛᴇᴅ ɪɴ ɢʜᴏꜱᴛ ...\n\nᴀʟʟ ᴅᴏɴᴇ !\nɪɴꜱᴛᴀʟʟɪɴɢ ᴛᴏᴋᴇɴ!\nᴛᴏᴋᴇɴ=ᴅᴊ65ɢᴜʟᴏ90ᴘ90ɴʟᴋᴍ65ᴅʀꜰᴄ8ɪ"
     )
     await asyncio.sleep(3)
     await e.edit("ꜱᴛᴀʀᴛɪɴɢ ᴛᴇʟᴇɢʀᴀᴍ ʜᴀᴄᴋ")

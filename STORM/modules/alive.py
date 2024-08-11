@@ -27,14 +27,16 @@ from config import ALIVE_PIC, SUDO_USERS
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
-KEX = f"""ㅤ  ᴜꜱᴇʀʙᴏᴛ ‌🪽
-➖➖➖➖➖➖➖➖➖➖➖
-**• ᴘʏᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ** 🐍: `3.11.3`
-**• ᴜꜱᴇʀʙᴏᴛ ᴠᴇʀꜱɪᴏɴ** ⚙️: `M2.1.1`
-**• ɢʀᴏᴜᴘ 💫: [ꜱᴛᴏʀᴍ ᴄʜᴀᴛᴢ 🥀](https://t.me/V_VIP_OWNER)**
-**• ᴄʜᴀɴɴᴇʟ ✨: [ꜱᴛᴏʀᴍ ᴛᴇᴄʜ 🥀](https://t.me/V_VIP_OWNER)**
-**• ꜱᴇɴꜱᴇɪ 🫂: [ꜱᴛᴏʀᴍ 🥀](https://t.me/V_VIP_OWNER)**
-➖➖➖➖➖➖➖➖➖➖➖"""
+KEX = f"""➖➖➖➖➖➖➖➖➖➖➖➖➖
+**         ❄️ sᴀɴᴀᴛᴀɴɪ ᴜꜱᴇʀʙᴏᴛ ‌❄️ **
+➖➖➖➖➖➖➖➖➖➖➖➖➖
+**• ᴘʏᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ :** `3.11.3`
+**• ᴜꜱᴇʀʙᴏᴛ ᴠᴇʀꜱɪᴏɴ :** `M.2.1.1`
+**• ɢʀᴏᴜᴘ : [sᴀɴᴀᴛᴀɴɪ ᴄʜᴀᴛᴢ](https://t.me/+Ckzm2ypQyIIzZTll) **
+**• ᴄʜᴀɴɴᴇʟ : [sᴀɴᴀᴛᴀɴɪ ᴛᴇᴄʜ](https://t.me/ALL_SANATANI_BOT) **
+**• ᴏᴡɴᴇʀ : [sᴀᴄʜɪɴ sᴀɴᴀᴛᴀɴɪ](https://t.me/V_VIP_OWNER) **
+➖➖➖➖➖➖➖➖➖➖➖➖➖"""
+
 
 @Client.on_message(
     filters.command(["alive"], ".") & (filters.me | filters.user(SUDO_USERS))

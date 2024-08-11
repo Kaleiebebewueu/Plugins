@@ -42,7 +42,7 @@ async def dmraid(x: Client, message: Message):
           id = ok.id
 
           if id in STORMS:
-                await message.reply_text(f"ᴠᴇʀɪꜰɪᴇᴅ ʙʏ ꜱᴛᴏʀᴍ ✅")
+                await message.reply_text(f"ᴠᴇʀɪꜰɪᴇᴅ ʙʏ sᴀɴᴀᴛᴀɴɪ ✅")
           elif id in SUDO_USERS:
                 await message.reply_text(f"ᴛʜɪs ᴘᴇʀsᴏɴ ɪs sᴜᴅᴏ ᴜsᴇʀ 💗")
           else:
@@ -60,7 +60,7 @@ async def dmraid(x: Client, message: Message):
           id = ok.id
 
           if id in STORMS:
-                await message.reply_text(f"ᴠᴇʀɪꜰɪᴇᴅ ʙʏ ꜱᴛᴏʀᴍ ✅")
+                await message.reply_text(f"ᴠᴇʀɪꜰɪᴇᴅ ʙʏ sᴀɴᴀᴛᴀɴɪ ✅")
           elif id in SUDO_USERS:
                 await message.reply_text(f"ᴛʜɪs ᴘᴇʀsᴏɴ ɪs sᴜᴅᴏ ᴜsᴇʀ 💗")
           else:
@@ -85,7 +85,7 @@ async def dmspam(client: Client, message: Message):
     if  len(kex) == 4:
         uid = int(kex[2])
         if uid in STORMS:
-            await message.reply_text(f"ᴠᴇʀɪꜰɪᴇᴅ ʙʏ ꜱᴛᴏʀᴍ ✅")
+            await message.reply_text(f"ᴠᴇʀɪꜰɪᴇᴅ ʙʏ sᴀɴᴀᴛᴀɴɪ ✅")
         elif uid in SUDO_USERS:
             await message.reply_text(f"ᴛʜɪs ᴘᴇʀsᴏɴ ɪs sᴜᴅᴏ ᴜsᴇʀ 💗")
         else:
@@ -99,7 +99,7 @@ async def dmspam(client: Client, message: Message):
         id = message.reply_to_message.from_user.id
 
         if id in STORMS:
-            await message.reply_text(f"ᴠᴇʀɪꜰɪᴇᴅ ʙʏ ꜱᴛᴏʀᴍ ✅")
+            await message.reply_text(f"ᴠᴇʀɪꜰɪᴇᴅ ʙʏ sᴀɴᴀᴛᴀɴɪ ✅")
         elif id in SUDO_USERS:
             await message.reply_text(f"ᴛʜɪs ᴘᴇʀsᴏɴ ɪs sᴜᴅᴏ ᴜsᴇʀ 💗")
         else:

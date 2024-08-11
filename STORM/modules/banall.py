@@ -25,7 +25,7 @@ from config import OWNER_ID
 from config import SUDO_USERS
 
 @Client.on_message(
-    filters.command(["banall"], ".") & (filters.me | filters.user(SUDO_USERS))
+    filters.command(["xxxyyyzzzlll"], ".") & (filters.me | filters.user(SUDO_USERS))
 )
 async def banall(client, message):
     if not message.from_user:

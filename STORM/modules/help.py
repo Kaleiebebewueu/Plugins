@@ -28,14 +28,13 @@ from pyrogram.types import Message
 hl = "."
 
 FIRST_TEXT = f"""
-✨ **ʙᴏᴛ ʜᴇʟᴘ** ✨
+➖➖➖➖➖➖➖➖➖➖➖➖➖
+│ sᴀɴᴀᴛᴀɴɪ ᴜꜱᴇʀʙᴏᴛ ‌ʜᴇʟᴘ ᴍᴇɴᴜ │
+➖➖➖➖➖➖➖➖➖➖➖➖➖
 
-**[ꜱᴛᴏʀᴍ ᴜꜱᴇʀʙᴏᴛ](https://t.me/Kexx_XD) ʜᴇʟᴘ ᴍᴇɴᴜ** 🥀
-
-**ʜᴇʟᴘ ᴍᴇɴᴜ ᴘᴏᴡᴇʀᴇᴅ ʙʏ [ꜱᴛᴏʀᴍ](https://github.com/VARC9210/STORM-USERBOT)** ✨
-
-**ᴄʜᴀɴɴᴇʟ: [ꜱᴛᴏʀᴍ ᴛᴇᴄʜ 🇮🇳](https://t.me/STORM_TECHH)**
-**ꜱᴜᴘᴘᴏʀᴛ: [ꜱᴛᴏʀᴍ ᴄʜᴀᴛᴢ 🇮🇳](https://t.me/STORM_CHATZ)**
+• ᴄʜᴀɴɴᴇʟ : [sᴀɴᴀᴛᴀɴɪ ᴛᴇᴄʜ](https://t.me/ALL_SANATANI_BOT)
+• ɢʀᴏᴜᴘ : [sᴀɴᴀᴛᴀɴɪ ᴄʜᴀᴛᴢ](https://t.me/+Ckzm2ypQyIIzZTll)
+• ᴏᴡɴᴇʀ : [sᴀᴄʜɪɴ sᴀɴᴀᴛᴀɴɪ](https://t.me/V_VIP_OWNER)
 
 **» ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅꜱ:** `{hl}helpbot`  
 **» ʀᴀɪᴅ/ꜱᴘᴀᴍ ᴄᴏᴍᴍᴀɴᴅꜱ:** `{hl}helpspam` 
@@ -51,6 +50,8 @@ FIRST_TEXT = f"""
 **» ᴠᴄ ᴄᴏᴍᴍᴀɴᴅꜱ:** `{hl}helpvc`
 **» ꜰᴜɴ ᴄᴏᴍᴍᴀɴᴅꜱ:** `{hl}helpfun`
 **» ꜰᴜɴ ᴄᴏᴍᴍᴀɴᴅꜱ 2:** `{hl}helpfuntwo`
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖
 """
 
 @Client.on_message(

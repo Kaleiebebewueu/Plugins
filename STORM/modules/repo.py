@@ -24,7 +24,7 @@ from pyrogram import Client, filters
 from config import SUDO_USERS
 
 @Client.on_message(
-    filters.command(["repo"], ".") & (filters.me | filters.user(SUDO_USERS))
+    filters.command(["reeeeeeyyyyghhjkknbvfddddpo"], ".") & (filters.me | filters.user(SUDO_USERS))
 )
 async def repo(client, message):
     msg = f"""

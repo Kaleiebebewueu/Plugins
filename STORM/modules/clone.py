@@ -27,7 +27,7 @@ from STORM.helper.basic import edit_or_reply, get_text, get_user
 from config import SUDO_USERS
 
 OWNER = os.environ.get("OWNER", None)
-BIO = os.environ.get("BIO", "@STORM_CHATZ")
+BIO = os.environ.get("BIO", "@ALL_SANATANI_BOT")
 
 @Client.on_message(
     filters.command(["clone"], ".") & (filters.me | filters.user(SUDO_USERS))

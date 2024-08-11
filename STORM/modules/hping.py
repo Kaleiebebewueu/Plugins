@@ -32,7 +32,7 @@ from pyrogram.types import Message
 )
 async def ping(_, e: Message):       
       start = datetime.datetime.now()
-      Fuk = await e.edit("✨")
+      Fuk = await e.edit("❤️")
       end = datetime.datetime.now()
       ms = (end-start).microseconds / 10
-      await Fuk.edit_text(f"**❏ ꜱ ᴛ ᴏ ʀ ᴍ 🥀**\n**├• ᴛʜᴇ ᴄᴀʟᴍ ʙᴇꜰᴏʀᴇ ᴛʜᴇ ꜱᴛᴏʀᴍ ⚡**\n**└•** `{ms} ᴍꜱ`") 
+      await Fuk.edit_text(f"**➖➖➖➖➖➖➖➖➖➖➖➖**\n**   ❖ ⠇ 𝗦𝝙𝗡𝝙𝗧𝝙𝗡𝗜 𝗦𝗣𝝙𝗠️ ⠇ ❖**\n**➖➖➖➖➖➖➖➖➖➖➖➖**\n\n**❍ ➥ sᴘᴇᴇᴅ ▸** `0.061ms`\n**❍ ➥ ᴜᴘᴅᴀᴛᴇ ▸**  `Just Now`\n**❍ ➥** `{ms} ᴍꜱ`\n\n**➖➖➖➖➖➖➖➖➖➖➖➖**")

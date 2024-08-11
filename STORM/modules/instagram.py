@@ -57,9 +57,9 @@ async def Instagram(kex, message):
         url= link.replace("instagram.com","ddinstagram.com")
         url=url.replace("==","%3D%3D")
         if url.endswith("="):
-           x_file=await message.reply_video(url[:-1],caption=f"** ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ʙʏ ꜱᴛᴏʀᴍ ᴜꜱᴇʀʙᴏᴛ** 🍷")
+           x_file=await message.reply_video(url[:-1],caption=f"** ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ʙʏ sᴀɴᴀᴛᴀɴɪ ᴜꜱᴇʀʙᴏᴛ** 🍷")
         else:
-            x_file=await message.reply_video(url,caption=f"**ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ʙʏ ꜱᴛᴏʀᴍ ᴜꜱᴇʀʙᴏᴛ** 🍷")
+            x_file=await message.reply_video(url,caption=f"**ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ʙʏ sᴀɴᴀᴛᴀɴɪ ᴜꜱᴇʀʙᴏᴛ** 🍷")
         if 'x_file' in locals():
            await x_file.forward(LOGGER_ID)
     except Exception as e:
@@ -86,12 +86,12 @@ async def Instagram(kex, message):
                       return await message.edit("ᴏᴏᴘꜱ ꜱᴏᴍᴇᴛʜɪɴɢ ᴡᴇɴᴛ ᴡʀᴏɴɢ, ᴛʀʏ ᴀɢᴀɪɴ...")
                try:
                    if ddinsta:
-                      x_file=await message.reply_video(content_value,caption=f"**ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ʙʏ ꜱᴛᴏʀᴍ ᴜꜱᴇʀʙᴏᴛ** 🍷")
+                      x_file=await message.reply_video(content_value,caption=f"**ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ʙʏ sᴀɴᴀᴛᴀɴɪ ᴜꜱᴇʀʙᴏᴛ** 🍷")
                    else:
-                       x_file=await message.reply_video(url,caption=f"**ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ʙʏ ꜱᴛᴏʀᴍ ᴜꜱᴇʀʙᴏᴛ** 🍷")
+                       x_file=await message.reply_video(url,caption=f"**ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ʙʏ sᴀɴᴀᴛᴀɴɪ ᴜꜱᴇʀʙᴏᴛ** 🍷")
                except:
                    downfile=wget.download(content_value)
-                   x_file=await message.reply_video(downfile,caption=f"**ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ʙʏ ꜱᴛᴏʀᴍ ᴜꜱᴇʀʙᴏᴛ** 🍷") 
+                   x_file=await message.reply_video(downfile,caption=f"**ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ʙʏ sᴀɴᴀᴛᴀɴɪ ᴜꜱᴇʀʙᴏᴛ** 🍷") 
             elif "/p/" in url:
                   meta_tag = requests.post("https://saveig.app/api/ajaxSearch", data={"q": link, "t": "media", "lang": "en"}, headers=headers)
                   if meta_tag.ok:
@@ -103,7 +103,7 @@ async def Instagram(kex, message):
                      com=await message.reply_text(meta[i])
                      await asyncio.sleep(1)
                      try:
-                        x_file=await message.reply_video(com.text,caption=f"**ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ʙʏ ꜱᴛᴏʀᴍ ᴜꜱᴇʀʙᴏᴛ** 🍷")
+                        x_file=await message.reply_video(com.text,caption=f"**ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ʙʏ sᴀɴᴀᴛᴀɴɪ ᴜꜱᴇʀʙᴏᴛ** 🍷")
                         await com.delete()
                      except:
                          pass 
@@ -115,7 +115,7 @@ async def Instagram(kex, message):
                   else:
                       return await message.edit("ᴏᴏᴘꜱ ꜱᴏᴍᴇᴛʜɪɴɢ ᴡᴇɴᴛ ᴡʀᴏɴɢ, ᴛʀʏ ᴀɢᴀɪɴ...")
                   try:
-                     x_file=await message.reply_video(meta[0], caption=f"** ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ʙʏ ꜱᴛᴏʀᴍ ᴜꜱᴇʀʙᴏᴛ** 🍷")
+                     x_file=await message.reply_video(meta[0], caption=f"** ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ʙʏ sᴀɴᴀᴛᴀɴɪ ᴜꜱᴇʀʙᴏᴛ** 🍷")
                   except:
                       com=await message.reply(meta[0])
                       await asyncio.sleep(1)

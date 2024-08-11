@@ -37,7 +37,7 @@ async def raid(x: Client, message: Message):
         ok = await x.get_users(kex[2])  
         id = ok.id
         if id in STORMS:
-            await message.reply_text("ɴᴏᴘᴇ ᴛʜɪꜱ ɢᴜʏ ɪꜱ ꜱᴛᴏʀᴍ'ꜱ ᴏᴡɴᴇʀ ☠️")
+            await message.reply_text("ɴᴏᴘᴇ ᴛʜɪꜱ ɢᴜʏ ɪꜱ sᴀɴᴀᴛᴀɴɪ ᴏᴡɴᴇʀ ☠️")
         elif id == OWNER_ID:
             await message.reply_text("ɴᴏᴘᴇ ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴏᴡɴᴇʀ ᴏꜰ ᴛʜᴇꜱᴇ ʙᴏᴛꜱ 🥀")
         elif id in SUDO_USERS:
@@ -56,7 +56,7 @@ async def raid(x: Client, message: Message):
         ok = await x.get_users(user_id)
         id = ok.id
         if id in STORMS:
-            await message.reply_text("ɴᴏᴘᴇ ᴛʜɪꜱ ɢᴜʏ ɪꜱ ꜱᴛᴏʀᴍ'ꜱ ᴏᴡɴᴇʀ ☠️")
+            await message.reply_text("ɴᴏᴘᴇ ᴛʜɪꜱ ɢᴜʏ ɪꜱ sᴀɴᴀᴛᴀɴɪ ᴏᴡɴᴇʀ ☠️")
         elif id == OWNER_ID:
             await message.reply_text("ɴᴏᴘᴇ ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴏᴡɴᴇʀ ᴏꜰ ᴛʜᴇꜱᴇ ʙᴏᴛꜱ 🥀")
         elif id in SUDO_USERS:
@@ -85,7 +85,7 @@ async def rraid(x: Client, message: Message):
         ok = await x.get_users(kex[1])
         id = ok.id
         if id in STORMS:
-            await message.reply_text("ɴᴏᴘᴇ ᴛʜɪꜱ ɢᴜʏ ɪꜱ ꜱᴛᴏʀᴍ'ꜱ ᴏᴡɴᴇʀ ☠️")
+            await message.reply_text("ɴᴏᴘᴇ ᴛʜɪꜱ ɢᴜʏ ɪꜱ sᴀɴᴀᴛᴀɴɪ ᴏᴡɴᴇʀ ☠️")
         elif id == OWNER_ID:
             await message.reply_text("ɴᴏᴘᴇ ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴏᴡɴᴇʀ ᴏꜰ ᴛʜᴇꜱᴇ ʙᴏᴛꜱ 🥀")
         elif id in SUDO_USERS:
@@ -97,7 +97,7 @@ async def rraid(x: Client, message: Message):
     elif message.reply_to_message:
         user_id = message.reply_to_message.from_user.id
         if user_id in STORMS:
-            await message.reply_text("ɴᴏᴘᴇ ᴛʜɪꜱ ɢᴜʏ ɪꜱ ꜱᴛᴏʀᴍ'ꜱ ᴏᴡɴᴇʀ ☠️")
+            await message.reply_text("ɴᴏᴘᴇ ᴛʜɪꜱ ɢᴜʏ ɪꜱ sᴀɴᴀᴛᴀɴɪ ᴏᴡɴᴇʀ ☠️")
         elif user_id == OWNER_ID:
             await message.reply_text("ɴᴏᴘᴇ ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴏᴡɴᴇʀ ᴏꜰ ᴛʜᴇꜱᴇ ʙᴏᴛꜱ 🥀")
         elif user_id in SUDO_USERS:
