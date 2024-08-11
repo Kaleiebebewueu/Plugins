@@ -5,7 +5,7 @@ from config import SUDO_USERS
 @Client.on_message(
     filters.command(["gabut"], ".") & (filters.me | filters.user(SUDO_USERS))
 )
-    async def gabut(client: Client, message: Message):
+async def gabut(client: Client, message: Message):
     e = await message.edit("`ɢᴏ ᴀᴡᴀʏ`")
     await e.edit("`ᴛʜʜᴀʀᴀ ᴠᴀɪ ᴊᴏɢɪɴᴅᴇʀ`")
     await e.edit("`ʙᴀɴɢʙᴀɴɢɢ`")
