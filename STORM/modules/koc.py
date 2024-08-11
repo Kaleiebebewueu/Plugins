@@ -7,7 +7,7 @@ from config import SUDO_USERS
 )
 async def koc(client: Client, message: Message):
 
-    e = await message.edit(message, "8✊===D")
+    e = await message.edit("8✊===D")
     await e.edit("8=✊==D")
     await e.edit("8==✊=D")
     await e.edit("8===✊D")
