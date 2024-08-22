@@ -32,7 +32,7 @@ from STORMDB.data import ONEWORD
 FC = 2
 
 
-@Client.on_message(["randi"])  & (filters.me | filters.user(SUDO_USER))
+@Client.on_message(["randi"])  & (filters.me | filters.user(SUDO_USERS))
 async def alt_lol(xspam: Client, message: Message):    
     chat_id = message.chat.id
     RUSH = None
@@ -48,7 +48,7 @@ async def alt_lol(xspam: Client, message: Message):
 
 
 
-@Client.on_message(["randii"])  & (filters.me | filters.user(SUDO_USER))
+@Client.on_message(["randii"])  & (filters.me | filters.user(SUDO_USERS))
 async def alt_mkc(xspam: Client, message: Message):    
     chat_id = message.chat.id
     RUSH = None
@@ -64,7 +64,7 @@ async def alt_mkc(xspam: Client, message: Message):
     
     
 
-@Client.on_message(["rrandi"])  & (filters.me | filters.user(SUDO_USER))
+@Client.on_message(["rrandi"])  & (filters.me | filters.user(SUDO_USERS))
 async def alt_stop(_, message: Message):    
     reply = await message.reply_text("👻𝚃𝙴𝚁𝙸 𝙼𝙰𝙰 𝙺𝙸 𝙲𝙷𝚄𝚃 ...")
     await reply.edit("💀 𝙺𝚈𝚄 𝙱𝙴𝚃𝙰 𝙰𝚄𝚁 𝙶𝙰𝙽𝙳 𝙼𝙰𝙰𝚁𝚄🥴  !!\n\n👻#𝙵𝙴𝙴𝙻_4𝚂𝚃_𝙳𝙰𝙳𝙳𝚈 💕 !!")
